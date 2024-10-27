@@ -1,0 +1,1 @@
+{"name":"Local: Franges","url":"d:\\Questions\\Franges.cpp","tests":[{"id":1730042133592,"input":"5 3\n1 0 1 0 1\n1 2 1\n3 5 3\n1 5 2\n","output":"4 3 6 5 6\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Questions\\Franges.cpp","group":"local","local":true}

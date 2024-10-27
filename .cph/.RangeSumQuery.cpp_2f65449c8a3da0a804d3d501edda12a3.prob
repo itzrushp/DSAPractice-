@@ -1,0 +1,1 @@
+{"name":"Local: RangeSumQuery","url":"d:\\Questions\\RangeSumQuery.cpp","tests":[{"id":1730045298487,"input":"6 3\n6 4 2 7 2 7\n1 3\n3 6\n1 6\n","output":"12\n18\n28\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Questions\\RangeSumQuery.cpp","group":"local","local":true}
