@@ -1,0 +1,1 @@
+{"name":"Local: Queues","url":"d:\\Questions\\STL\\Queues.cpp","tests":[{"id":1733126445176,"input":"15\npush 5\nfront\nback\npush 6\nfront\nback\npush 3\nfront\nback\npop\nfront\nback\npop\nfront\nback\n","output":"5\n5\n5\n6\n5\n3\n6\n3\n3\n3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Questions\\STL\\Queues.cpp","group":"local","local":true}

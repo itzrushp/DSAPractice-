@@ -1,0 +1,1 @@
+{"name":"Local: PriorityQueueMin","url":"d:\\Questions\\STL\\PriorityQueueMin.cpp","tests":[{"id":1733127468224,"input":"10\npush 5\ntop\npush 6\ntop\npush 3\ntop\npop\ntop\npop\ntop\n","output":"5\n5\n3\n5\n6\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Questions\\STL\\PriorityQueueMin.cpp","group":"local","local":true}

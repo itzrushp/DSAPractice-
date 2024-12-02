@@ -1,0 +1,1 @@
+{"name":"Local: set","url":"d:\\Questions\\STL\\set.cpp","tests":[{"id":1733131701100,"input":"10\ninsert 1\ninsert 2\ninsert 3\ninsert 4\ninsert 5\nfind 5\nlower_bound 5\nupper_bound 4\nlower_bound 1\nfind 6","output":"found\n5\n5\n1\nnot found"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Questions\\STL\\set.cpp","group":"local","local":true}
