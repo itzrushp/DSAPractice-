@@ -1,0 +1,1 @@
+{"name":"Local: distinctElements","url":"d:\\Questions\\STL\\distinctElements.cpp","tests":[{"id":1733149588096,"input":"7 5\n1 1 2 3 3 4 5\n1\n2\n3\n4\n5\n","output":"0 4\n1 3\n2 2\n3 1\n4 0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Questions\\STL\\distinctElements.cpp","group":"local","local":true}
